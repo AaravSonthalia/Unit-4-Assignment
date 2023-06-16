@@ -1,2 +1,2 @@
-# Unit-4-Assignment
+# Debugging-Project
 This is a debugging assignment coded in HTML and JavaScript
